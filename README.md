@@ -149,4 +149,4 @@ GitHub Repository
 https://github.com/project496/NLP_assignment_1
 
 Kaggle Dataset
-https://www.kaggle.com/datasets/aleezagulzar/inventions-inventors
+](https://www.kaggle.com/datasets/aleezagulzar/inventors-and-their-inventions)
